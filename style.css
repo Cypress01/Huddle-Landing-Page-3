@@ -154,6 +154,11 @@ footer div span p {
     margin-bottom: 40px;
 }
 
+.contacts span span {
+    display: flex;
+    justify-content: center;
+}
+
 .footer-links__div {
     margin: 10px 0;
 }
